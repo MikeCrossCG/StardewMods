@@ -7,8 +7,8 @@
   "default-name.shipping-bin": "Caixa de Remessas",
 
   // default category names
-  "default-category.owned-cabin": "Cabin ({{owner}})", // TODO
-  "default-category.unowned-cabin": "Cabin (empty)", // TODO
+  "default-category.owned-cabin": "Cabana ({{owner}})",
+  "default-category.unowned-cabin": "Cabana (empty)",
   "default-category.duplicate": "{{locationName}} #{{number}}",
 
   // edit-chest labels
@@ -20,8 +20,8 @@
   "label.hide-chest": "Esconder esse baú",
   "label.hide-chest-hidden": "Esconder esse baú (Você terá que achar o baú para desfazer isso!)",
   "label.automate-prefer-output": "(Automate) Primeiro coloque itens nesse baú",
-  "label.automate-no-input": "(Automate) Don't put items in this chest", // TODO
-  "label.automate-no-output": "(Automate) Don't get items from this chest", // TODO
+  "label.automate-no-input": "(Automate) Não coloque itens nesse baú",
+  "label.automate-no-output": "(Automate) Não retire itens nesse baú",
   "label.automate-ignore": "(Automate) Não use este baú para automação",
 
   // button labels
